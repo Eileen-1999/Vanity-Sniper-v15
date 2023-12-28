@@ -1,0 +1,23 @@
+-- الرجاء عدم وضع علامات تنصيص.
+-- طريقة التعديل توضع بعد علامة المساواه.
+-- الشخطتان للتوضيح ولا تقوم بتعطيك الكود.
+
+-- تخصيص الاوتو كلايمر.
+AutoClaimerGuildID= -- ايدي سيرفر.
+AutoClaimerSelfToken= -- توكن الحساب اللي داخل السيرفرات.
+AutoClaimerSelfTokenCatcher= -- توكن الحساب اللي بيصيد.
+AutoClaimerSuccessWebhook= -- رابط ويبهوك النجاح.
+AutoClaimerFailedWebhook= -- رابط ويبهوك الفشل.
+
+-- تخصيص السوابر.
+SwapperGuildID= -- ايدي السيرفر حق السوابر.
+SwapperWebhookURL= -- رابط الويبهوك حق السوابر.
+SwapperCode=bx -- الكود اللي تبي تنقله.
+SwapperInterval= -- سرعة الاداة.
+
+-- تخصيص التحقق من الريت ليميت.
+RateLimitGuildID= -- ايدي سيرفر التحقق من الريت ليميت.
+RateLimitToken= -- تحط توكن بوت التحقق من الريت ليميت قبل الشخطتين.
+
+-- تخصيص الويبهوك تست
+webhookTesterUrl= -- رابط الويبهوك
